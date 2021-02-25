@@ -1,0 +1,115 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="value" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="form" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N801" />
+          <option value="N806" />
+        </list>
+      </option>
+      <option name="ignoredBaseClasses">
+        <list>
+          <option value="unittest.TestCase" />
+          <option value="unittest.case.TestCase" />
+          <option value="student_response.student.models.Section" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="student_response.university.forms.student" />
+          <option value="student_response.university.admin.student" />
+          <option value="student_response.university.views.student" />
+          <option value="student_response.university.views.university" />
+          <option value="student_response.university.forms.registrar" />
+          <option value="student_response.student.models.user" />
+          <option value="student_response.university.views.*" />
+          <option value="student_response.student_response.urls.student" />
+          <option value="student_response.student.views.student" />
+          <option value="student_response.student.views.*" />
+          <option value="student_response.university.templatetags.student.student" />
+          <option value="student_response.university.urls.university_slug" />
+          <option value="student_response.university.urls.*" />
+          <option value="student_response.dean.forms.*" />
+          <option value="student_response.university.models.*" />
+          <option value="student_response.university.templatetags.student.models" />
+          <option value="student_response.dean.views.*" />
+          <option value="student_response.university.filters.student" />
+          <option value="student_response.student.models.University.*" />
+          <option value="student_response.student.models.University.school_set" />
+          <option value="django.db.models.fields.related.ForeignKey.*" />
+          <option value="django.db.models.fields.related.ForeignKey.university_name" />
+          <option value="student_response.student.models.School.department_set" />
+          <option value="student_response.c_o_d.views.*" />
+          <option value="student_response.c_o_d.forms.*" />
+          <option value="student_response.first_admin_website.views.*" />
+          <option value="student_response.first_admin_website.forms.*" />
+          <option value="konexhotels.hotel.models.*" />
+          <option value="konexhotels.user.models.*" />
+          <option value="konexhotels.hotel.admin.*" />
+          <option value="konex_music.music.models.*" />
+          <option value="konex.music.models.*" />
+          <option value="konex.hotel.models.*" />
+          <option value="konex.music.views.*" />
+          <option value="konex.music.forms.*" />
+          <option value="konex.movie.models.*" />
+          <option value="konex.shop.models.*" />
+          <option value="konex.membership.models.*" />
+          <option value="konex.cart.models.*" />
+          <option value="konex.payment.models.*" />
+          <option value="konex.orders.models.*" />
+          <option value="konex.shop.views.*" />
+          <option value="konex.payment.views.*" />
+          <option value="konex.reviews.models.*" />
+          <option value="konex.wishlist.models.*" />
+          <option value="konex.comparison.models.*" />
+          <option value="konex.artist.forms.*" />
+          <option value="konex.home.views.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
